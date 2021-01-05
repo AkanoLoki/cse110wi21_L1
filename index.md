@@ -34,7 +34,8 @@ Oh and the lists. Don't forget the lists.
 - [ ] unchecked boxie
 - [x] checked boxie
 
-[Link to my fav restaurant in Price Center](https://locations.bk.com/ca/san-diego/9500-%20mcgill-way.html) and here's the icon.![BK](https://universitycenters.ucsd.edu/_images/dining-retail/Burger%20King.jpg)
+[Link to my fav restaurant in Price Center](https://locations.bk.com/ca/san-diego/9500-%20mcgill-way.html) and here's the icon.
+![BK](https://universitycenters.ucsd.edu/_images/dining-retail/Burger%20King.jpg)
 
 ### Link to the Readme file
 
