@@ -24,19 +24,19 @@ Oh and the lists. Don't forget the lists.
 1. If you count the holes you get a number 1
 2. And here's hole 2
 3. Hole 3
-4. Reloading!
+4. - welp you hit a nest
+   - ouch the birds
+   - and they fly away
+5. Reloading!
 
-**Bold** and _Italic_ and `Code` text
+**F**_U_`N` **_`KOMBINED`_**
 
-[Link](url) and ![Image](src)
+- [ ] unchecked boxie
+- [x] checked boxie
 
+[Link to my fav restaurant in Price Center](https://locations.bk.com/ca/san-diego/9500-%20mcgill-way.html) and here's the icon.![BK](https://universitycenters.ucsd.edu/_images/dining-retail/Burger%20King.jpg)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Link to the Readme file
 
-### Jekyll Themes
+[LINK](./README.MD)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AkanoLoki/cse110wi21_L1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
