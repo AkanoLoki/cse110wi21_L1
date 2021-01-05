@@ -1,30 +1,35 @@
-## Welcome to GitHub Pages
+## CSE 110 Winter 2021 is getting real bruh
 
-You can use the [editor on GitHub](https://github.com/AkanoLoki/cse110wi21_L1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+So they asked for images, links and "all other core MD constructs". Check this out.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Styling Way Too Much
 
-### Markdown
+# BIGGEST HEDINGU
+## BIGGER
+#### SMALLER
+###### SMALLEST HEDINGU
+And by the way here's some happy stuff.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> HaPpY sTuFf
 
-```markdown
-Syntax highlighted code block
+```
+ H a V e F u N
+```
+Oh and the lists. Don't forget the lists.
+- Hole 1
+- Hole 2
+- Hole 3
+- And reload your mags here.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. If you count the holes you get a number 1
+2. And here's hole 2
+3. Hole 3
+4. Reloading!
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
